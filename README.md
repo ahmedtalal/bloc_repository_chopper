@@ -1,6 +1,5 @@
 # bloc_pattern
-
-A new Flutter project in flutter statement,we implement bloc pattern.
+it is a simple app , it is built using bloc pattern , repository and chopper packages.
 
 ## Getting Started
 
